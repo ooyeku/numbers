@@ -2,6 +2,7 @@
 //! as a whole (non-element-wise operations).
 //! The dataframe structure is similar to pythons pandas dataframe but with less functionality and only for integers.
 //! The dataframe is stored as a vector of vectors.
+/// TODO: Overhaul this
 
 use std::collections::HashMap;
 
